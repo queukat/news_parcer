@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+transformers
+sentence-transformers
+python-telegram-bot
+azure-ai-textanalytics
+azure-ai-translation-text
+python-dotenv
